@@ -1,0 +1,2 @@
+# izinvps
+ip izin Script
